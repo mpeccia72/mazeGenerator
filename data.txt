@@ -1,0 +1,2 @@
+Dimensions: 25
+Seed (use integers): 113
